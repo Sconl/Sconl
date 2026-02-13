@@ -4,7 +4,7 @@
 
 ---
 
-# Hello... I am Sconl Peter
+# Hello, I am Sconl Peter
 
 I build systems for moments when decisions matter.
 
