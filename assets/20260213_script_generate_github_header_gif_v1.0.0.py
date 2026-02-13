@@ -12,7 +12,7 @@ except ImportError:
 WIDTH, HEIGHT = 1200, 200
 TEXT_LINES = [
     "Decision Systems Architect.",
-    "Privacy First Infrastructure.",
+    "Privacy First Infrastructure Engineer.",
     "Design. Decide. Deploy."
 ]
 FONT_PATH = "Poppins-Bold.ttf"  # Replace with your local Poppins-Bold.ttf
@@ -110,9 +110,10 @@ def make_frame(t):
     arr = np.clip(arr, 0, 255).astype(np.uint8)
     line_img = Image.fromarray(arr, mode="RGBA")
 
-    # Paste centered
+    # Paste left-aligned so typing expands to the right
     img = Image.new("RGBA", (WIDTH, HEIGHT), (0,0,0,0))
-    x = (WIDTH - line_img.width)//2
+    left_margin = 20
+    x = left_margin
     y = (HEIGHT - line_img.height)//2
     img.paste(line_img, (x,y), line_img)
     return img
