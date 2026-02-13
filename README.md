@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="700">
+  <img src="assets/20260213_asset_animated_text_github_header_sconl.gif" width="700">
 </p>
 
 ---
