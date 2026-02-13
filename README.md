@@ -1,18 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=111111&center=true&vCenter=true&width=700&lines=Decision+Systems.;Privacy-First+Infrastructure.;Operational+Clarity.;Secure-by-Default+Tools." />
+  <img src="assets/header.svg" width="700">
 </p>
 
 ---
 
 # Sconl
 
-I design and build operational systems that enable clear, accountable decision-making under uncertainty.
+I build systems for moments when decisions matter.
+
+Not dashboards for curiosity.  
+Not tools for noise.  
+But operational systems designed for environments where the cost of error is high and hesitation is expensive.
 
 My work sits at the intersection of:
 
 - Decision architecture  
 - Secure systems engineering  
-- Privacy-preserving infrastructure  
+- Privacy-first infrastructure  
 - Operational execution design  
 
 Technology is not the objective.  
@@ -20,58 +24,94 @@ Clarity is.
 
 ---
 
-## What This GitHub Represents
+## Why This Exists
 
-This profile is the technical laboratory behind a broader thesis:
+Most organizations are not short on data.
 
-> Systems that reduce cognitive friction while preserving integrity, traceability, and privacy.
+They are short on:
 
-The repositories here (and within the associated organization) focus on:
+- Structured thinking under pressure  
+- Traceable execution  
+- Infrastructure integrity  
+- Privacy-respecting systems  
+
+When uncertainty increases, complexity multiplies.
+Most software adds to that complexity.
+
+I build tools that reduce it.
+
+---
+
+## What You’ll Find Here
+
+This GitHub functions as a systems laboratory.
+
+The repositories here — and within the associated organization — focus on:
 
 - Decision modeling engines  
 - Execution orchestration frameworks  
 - Audit and trace systems  
-- Cost-aware infrastructure patterns  
-- Secure-by-default tooling  
+- Cost-aware deployment patterns  
+- Secure-by-default operational tooling  
 
-Each project documents:
+Every project is built with explicit documentation of:
 
 - Assumptions  
 - Tradeoffs  
-- Architecture decisions  
+- Architectural boundaries  
 - Security posture  
 - Operational constraints  
+
+If a system cannot explain itself, it cannot be trusted.
 
 ---
 
 ## Engineering Principles
 
-**Clarity over abstraction.**  
-If a system cannot explain its logic, it cannot be trusted.
+**Clarity over abstraction**  
+Elegant systems are understandable systems.
 
-**Privacy by default.**  
-Telemetry is explicit. Surface area is minimal.
+**Privacy by default**  
+Telemetry is explicit. Data collection is minimal. Surface area is intentional.
 
-**Smallest effective surface.**  
-Tools are composable, not bloated.
+**Smallest effective surface**  
+Tools are composable and focused — not bloated.
 
-**Operational realism.**  
-Everything is designed with deployment, cost, and failure modes in mind.
+**Operational realism**  
+Design decisions account for cost, failure modes, and infrastructure constraints.
 
-**Transparent tradeoffs.**  
-Architecture decisions are recorded and versioned.
+**Transparent tradeoffs**  
+Architecture decisions are recorded, versioned, and revisitable.
 
 ---
 
-## Current Focus
+## Current Direction
 
 - Building a cohesive open-source decision systems suite  
-- Designing privacy-conscious infrastructure patterns  
-- Publishing long-form work on decision architecture and execution  
+- Developing privacy-conscious infrastructure patterns  
+- Exploring measurable models of execution integrity  
+- Publishing long-form work on decision architecture and systems thinking  
+
+This is long-term work.
+
+It prioritizes durability over trend alignment.
 
 ---
 
 ## Alignment
 
-If your work involves capital allocation, institutional systems, infrastructure integrity, or high-consequence execution — we likely think about problems in similar ways.
+If your role involves:
 
+- Capital allocation  
+- Institutional systems  
+- Infrastructure resilience  
+- High-consequence execution  
+- Security-sensitive environments  
+
+We are likely thinking about similar problems.
+
+---
+
+<p align="center">
+  <sub>Secure systems for consequential decisions.</sub>
+</p>
