@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="assets/20260213_asset_animated_text_github_header_sconl_v1.0.0.gif" width="700">
 </p>
 
