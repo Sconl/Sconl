@@ -10,14 +10,13 @@ I build systems for moments when decisions matter.
 
 Not dashboards for curiosity.  
 Not tools for noise.  
-But operational systems designed for environments where the cost of error is high and hesitation is expensive.
+But operational systems for environments where error is expensive and hesitation is costly.
 
 My work sits at the intersection of:
 
 - Decision architecture  
 - Secure systems engineering  
 - Privacy-first infrastructure  
-- Operational execution design  
 
 Technology is not the objective.  
 Clarity is.
@@ -31,14 +30,13 @@ Most organizations are not short on data.
 They are short on:
 
 - Structured thinking under pressure  
-- Traceable execution  
+- Execution discipline  
 - Infrastructure integrity  
-- Privacy-respecting systems  
 
-When uncertainty increases, complexity multiplies.
-Most software adds to that complexity.
+As uncertainty rises, complexity compounds.  
+Most software adds to it.
 
-I build tools that reduce it.
+I build systems that reduce it.
 
 ---
 
@@ -46,21 +44,17 @@ I build tools that reduce it.
 
 This GitHub functions as a systems laboratory.
 
-The repositories here — and within the associated organization — focus on:
+Repositories focus on:
 
 - Decision modeling engines  
 - Execution orchestration frameworks  
-- Audit and trace systems  
-- Cost-aware deployment patterns  
-- Secure-by-default operational tooling  
+- Secure operational tooling  
 
-Every project is built with explicit documentation of:
+Each project documents:
 
 - Assumptions  
 - Tradeoffs  
-- Architectural boundaries  
 - Security posture  
-- Operational constraints  
 
 If a system cannot explain itself, it cannot be trusted.
 
@@ -69,46 +63,36 @@ If a system cannot explain itself, it cannot be trusted.
 ## Engineering Principles
 
 **Clarity over abstraction**  
-Elegant systems are understandable systems.
+Understandable systems outperform clever ones.
 
 **Privacy by default**  
-Telemetry is explicit. Data collection is minimal. Surface area is intentional.
-
-**Smallest effective surface**  
-Tools are composable and focused — not bloated.
+Data collection is explicit. Surface area is intentional.
 
 **Operational realism**  
-Design decisions account for cost, failure modes, and infrastructure constraints.
-
-**Transparent tradeoffs**  
-Architecture decisions are recorded, versioned, and revisitable.
+Design accounts for cost, failure, and constraint.
 
 ---
 
 ## Current Direction
 
 - Building a cohesive open-source decision systems suite  
-- Developing privacy-conscious infrastructure patterns  
-- Exploring measurable models of execution integrity  
-- Publishing long-form work on decision architecture and systems thinking  
+- Formalizing privacy-conscious infrastructure patterns  
+- Publishing long-form work on decision architecture  
 
-This is long-term work.
-
-It prioritizes durability over trend alignment.
+This is long-term work.  
+Durability over trend alignment.
 
 ---
 
 ## Alignment
 
-If your role involves:
+If you work in:
 
 - Capital allocation  
 - Institutional systems  
-- Infrastructure resilience  
-- High-consequence execution  
 - Security-sensitive environments  
 
-We are likely thinking about similar problems.
+We are likely solving adjacent problems.
 
 ---
 
