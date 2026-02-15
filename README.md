@@ -44,7 +44,7 @@ I build systems that reduce it.
 
 This GitHub functions as a systems laboratory.
 
-The core projects live under the **q-space** organization and focus on:
+The core projects live under the **[QSpace](https://github.com/q-space)** organization and focus on:
 
 - Decision modeling engines  
 - Execution orchestration frameworks  
@@ -65,7 +65,7 @@ If a system cannot explain itself, it cannot be trusted.
 - **[QSpacePages](https://github.com/q-space/pages)**  
   Structured digital presence infrastructure.
 
-- **[QSpacePay](https://github.com/q-space/payments)**  
+- **[QSpacePay](https://github.com/q-space/pay)**  
   Controlled payment orchestration layer.
 
 - **[QSpacePulse](https://github.com/q-space/pulse)**  
