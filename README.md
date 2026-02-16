@@ -31,7 +31,7 @@ They are short on:
 
 - Structured thinking under pressure  
 - Execution discipline  
-- Infrastructure integrity  
+- Infrastructure integrity (and this is important)
 
 As uncertainty rises, complexity compounds.  
 Most software adds to it.
