@@ -8,7 +8,7 @@
 
 I build systems for moments when decisions matter.
 
-Not dashboards for curiosity.  just an update
+Not dashboards for curiosity.
 Not tools for cognitive overload.  
 But operational systems for environments where error is expensive and hesitation is costly.
 
