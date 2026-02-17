@@ -42,7 +42,7 @@ I build systems that reduce it.
 
 ## What You’ll Find Here
 
-This GitHub functions as a systems laboratory.
+This GitHub functions as a systems laboratory. my decisions laboratory.
 
 The core projects live under the **[QSpace](https://github.com/q-space)** organization and focus on:
 
